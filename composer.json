@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "zephia/olx": "^1.0"
+    "zephia/olx": "^1.1"
   },
   "autoload": {
     "psr-4": {
